@@ -100,5 +100,5 @@ Step 2: Run the Streamlit app.<br>
 ```streamlit run app.py```<br>
 Step 3: Access the application in your web browser at `http://localhost:8501`.<br>
 <hr>
-<h3><b>Contributors</b></h3>h3>
+<h3><b>Contributors</b></h3>
 Peñaflorida, Sarmiento, Sebial<br>
